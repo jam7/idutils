@@ -88,6 +88,10 @@ GNUmakefile		make
 *.doc			text
 *.txt			text
 *.org			text
+*.cmake			text
+*.def			text
+*.inc			text
+*.td			text
 
 *.m4			m4
 *.ac			m4
